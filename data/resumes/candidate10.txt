@@ -1,0 +1,14 @@
+Name: Meera Das
+Email: meera@example.com
+
+Summary:
+Data visualization enthusiast with dashboard experience and analytics background.
+
+Skills:
+Tableau, Power BI, Data Visualization, Excel, SQL
+
+Experience:
+Analytics Associate at VisualIQ - 2 years
+
+Education:
+Bachelor of Science in Computer Science

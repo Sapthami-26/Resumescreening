@@ -1,0 +1,14 @@
+Name: Karthik Rao
+Email: karthik@example.com
+
+Summary:
+Software developer with 5 years of experience in Java and web development.
+
+Skills:
+Java, Spring Boot, React, HTML, CSS
+
+Experience:
+Software Developer at BuildIt - 5 years
+
+Education:
+Bachelor of Technology in IT

@@ -1,0 +1,14 @@
+Name: Ramya Iyer
+Email: Ramyaya@example.com
+
+Summary:
+Software engineer with 1 years of experience building web applications.
+
+Skills:
+Java, Spring Boot, React, HTML, CSS
+
+Experience:
+Software Developer at XYZ Ltd - 1 years
+
+Education:
+Bachelor of Engineering in Information Technology

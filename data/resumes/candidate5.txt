@@ -1,0 +1,15 @@
+Name: Arjun Menon
+Email: arjun@example.com
+
+Summary:
+Data analyst with strong Python, SQL, Excel, and Power BI skills.
+
+Skills:
+Python, SQL, Excel, Power BI, Pandas, NumPy, Communication
+
+Experience:
+Data Analyst at FinTech Corp - 3 years
+Built dashboards and automated reports.
+
+Education:
+Bachelor of Engineering in Information Technology

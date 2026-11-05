@@ -1,0 +1,14 @@
+Name: Nikhil Suresh
+Email: nikhil@example.com
+
+Summary:
+Recent graduate with interest in data analysis and business intelligence.
+
+Skills:
+Python, Excel, Power BI, Communication
+
+Experience:
+Project work and academic assignments only
+
+Education:
+Bachelor of Commerce

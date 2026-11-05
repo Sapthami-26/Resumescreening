@@ -1,0 +1,14 @@
+Name: Vishal Gupta
+Email: vishal@example.com
+
+Summary:
+Operations analyst with experience in Excel reporting and stakeholder communication.
+
+Skills:
+Excel, Communication, Reporting
+
+Experience:
+Operations Analyst at OfficePro - 3 years
+
+Education:
+Bachelor of Arts

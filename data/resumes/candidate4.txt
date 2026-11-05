@@ -1,0 +1,15 @@
+Name: Ramya Iyer
+Email: ramya@example.com
+
+Summary:
+Fresher with knowledge of Python and basic SQL.
+
+Skills:
+Python, SQL, Communication
+
+Experience:
+Intern at DataLab - 1 year
+Worked on simple data cleaning tasks.
+
+Education:
+B.Sc in Statistics

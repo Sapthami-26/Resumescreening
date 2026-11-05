@@ -1,0 +1,14 @@
+Name: Sneha Patel
+Email: sneha@example.com
+
+Summary:
+Data science student with internship experience in machine learning and Python.
+
+Skills:
+Python, Pandas, NumPy, Machine Learning, SQL
+
+Experience:
+Data Science Intern at SmartAI - 1 year
+
+Education:
+Bachelor of Science in Data Science

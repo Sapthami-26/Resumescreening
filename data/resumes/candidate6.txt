@@ -1,0 +1,14 @@
+Name: Priya Nair
+Email: priya@example.com
+
+Summary:
+MBA graduate with experience in reporting, presentations, and dashboard creation.
+
+Skills:
+Excel, Communication, Dashboard, Tableau
+
+Experience:
+Reporting Associate at ABC Solutions - 2 years
+
+Education:
+Master of Business Administration

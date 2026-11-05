@@ -1,0 +1,9 @@
+openai
+python-dotenv
+pandas
+scikit-learn
+
+pypdf
+python-docx
+streamlit
+ollama

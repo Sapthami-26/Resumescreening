@@ -1,0 +1,13 @@
+Job Title: Junior Data Analyst
+
+We are looking for a Junior Data Analyst with strong skills in Python, SQL, Excel, and data visualization.
+Requirements:
+- 1 to 3 years of experience
+- Experience with Python and SQL
+- Knowledge of Excel and dashboards
+- Bachelor’s degree in Computer Science, Data Science, Statistics, or related field
+- Good communication skills
+Preferred:
+- Tableau or Power BI
+- Pandas and NumPy
+- Basic machine learning knowledge.

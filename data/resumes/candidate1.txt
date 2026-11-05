@@ -1,0 +1,15 @@
+Name: rahul
+Email: rahul@example.com
+
+Summary:
+Junior data analyst with 2 years of experience in Python, SQL, and Excel reporting.
+
+Skills:
+Python, SQL, Excel, Pandas, NumPy, Tableau
+
+Experience:
+Data Analyst at ABC Pvt Ltd - 2 years
+Worked on dashboards, data cleaning, and reporting.
+
+Education:
+B.Tech in Computer Science
